@@ -4043,45 +4043,6 @@
                 }
             }
             },
-            "A49eONLKi9XmcbJZ00Dh": {
-            "mapValue": {
-                "fields": {
-                "available": {
-                    "booleanValue": false
-                },
-                "type": {
-                    "stringValue": "Blonde"
-                },
-                "name": {
-                    "stringValue": "Kerel Kaishaku fût"
-                },
-                "barcode": {
-                    "stringValue": "9967055579154"
-                },
-                "number_in_container": {
-                    "integerValue": "70"
-                },
-                "article_type": {
-                    "integerValue": "1"
-                },
-                "new": {
-                    "booleanValue": false
-                },
-                "price_out": {
-                    "integerValue": "2"
-                },
-                "format": {
-                    "integerValue": "25"
-                },
-                "stock": {
-                    "integerValue": "0"
-                },
-                "degree": {
-                    "integerValue": "15"
-                }
-                }
-            }
-            },
             "50KgoKH8JNxY0zOBE8tg": {
             "mapValue": {
                 "fields": {

@@ -1,5 +1,4 @@
 ,Degree,Price,Volume,Type,Ratio
-Kerel Kaishaku fût,15.0,2.0,25.0,Blonde,187.5
 Kasteel triple,11.0,2.2,33.0,Blonde,165.0
 Bush 10,10.5,2.2,33.0,Blonde,157.5
 Kerel Kaishaku Fût,15.0,2.5,25.0,Blonde,150.0
@@ -7,23 +6,23 @@ Corne du bois des pendus quadruple ,12.0,2.7,33.0,Blonde,146.66666666666666
 Goliath triple,9.0,2.1,33.0,Blonde,141.42857142857142
 Kerel Kaishaku,15.0,3.5,33.0,Blonde,141.42857142857142
 Filou,8.5,2.1,33.0,Blonde,133.57142857142856
-Triple plaisir (la),8.0,2.0,33.0,Blonde,132.0
-Corne du bois des pendus 10 triple,10.0,2.5,33.0,Blonde,132.0
 Abeille,8.0,2.0,33.0,Blonde,132.0
+Corne du bois des pendus 10 triple,10.0,2.5,33.0,Blonde,132.0
+Triple plaisir (la),8.0,2.0,33.0,Blonde,132.0
 Carolus triple d'or,9.0,2.3,33.0,Blonde,129.13043478260872
 Duvel,8.5,2.2,33.0,Blonde,127.49999999999999
 Dupont les bons voeux,9.5,2.8,37.5,Blonde,127.23214285714286
-Val Dieu triple,9.0,2.4,33.0,Blonde,123.75
 Chouffe houblon triple,9.0,2.4,33.0,Blonde,123.75
+Val Dieu triple,9.0,2.4,33.0,Blonde,123.75
 To touille ,9.0,2.4,33.0,Blonde,123.75
 Malheur 10,10.0,2.7,33.0,Blonde,122.22222222222221
 lupulus organicus,8.5,2.3,33.0,Blonde,121.95652173913044
-Omer,8.0,2.2,33.0,Blonde,119.99999999999999
 Chouffe,8.0,2.2,33.0,Blonde,119.99999999999999
+Omer,8.0,2.2,33.0,Blonde,119.99999999999999
 Beer Lambert,8.0,2.2,33.0,Blonde,119.99999999999999
-Tongerlo prior,9.0,2.5,33.0,Blonde,118.8
-Impératrice (l’),9.0,2.5,33.0,Blonde,118.8
 Saint Idesbald triple,9.0,2.5,33.0,Blonde,118.8
+Impératrice (l’),9.0,2.5,33.0,Blonde,118.8
+Tongerlo prior,9.0,2.5,33.0,Blonde,118.8
 Lupulus blonde Fût,8.5,1.8,25.0,Blonde,118.05555555555556
 Paix Dieu,10.0,2.8,33.0,Blonde,117.85714285714286
 Duvel triple hop,9.5,2.67,33.0,Blonde,117.41573033707866
@@ -35,11 +34,11 @@ Lupulus Organicus,8.5,5.5,75.0,Blonde,115.9090909090909
 Moinette blonde,8.5,5.5,75.0,Blonde,115.9090909090909
 Cuvée des trolls,7.0,2.0,33.0,Blonde,115.5
 Saxo,7.7,2.2,33.0,Blonde,115.49999999999999
+Bon secours tradition,8.0,2.3,33.0,Blonde,114.78260869565219
 Waterloo triple,8.0,2.3,33.0,Blonde,114.78260869565219
+Tripick blonde,8.0,2.3,33.0,Blonde,114.78260869565219
 Barbar,8.0,2.3,33.0,Blonde,114.78260869565219
 Esprit triple,8.0,2.3,33.0,Blonde,114.78260869565219
-Bon secours tradition,8.0,2.3,33.0,Blonde,114.78260869565219
-Tripick blonde,8.0,2.3,33.0,Blonde,114.78260869565219
 Bertinchamps triple ,8.0,3.5,50.0,Blonde,114.28571428571429
 Big nose,9.0,2.6,33.0,Blonde,114.23076923076923
 Hopus,8.3,2.4,33.0,Blonde,114.12500000000001
@@ -49,8 +48,8 @@ Petrus triple d'or,7.5,2.2,33.0,Blonde,112.49999999999999
 Saint feuillien blonde,7.5,2.2,33.0,Blonde,112.49999999999999
 Julius,8.5,2.5,33.0,Blonde,112.2
 peak triple ,8.5,2.5,33.0,Blonde,112.2
-Saint feuillien triple,8.5,2.5,33.0,Blonde,112.2
 Charles Quint blonde dorée,8.5,2.5,33.0,Blonde,112.2
+Saint feuillien triple,8.5,2.5,33.0,Blonde,112.2
 Duvel triple hop cashmere,9.5,2.8,33.0,Blonde,111.96428571428572
 Bertinchamps triple Fût,8.0,1.8,25.0,Blonde,111.11111111111111
 Grimbergen blonde,6.7,2.0,33.0,Blonde,110.55
@@ -81,11 +80,11 @@ Leopold 7 triple de hesbaye,8.0,2.6,33.0,Blonde,101.53846153846153
 Rochehaut blonde triple ,8.0,2.6,33.0,Blonde,101.53846153846153
 Tête de mort Fût,8.1,2.0,25.0,Blonde,101.25
 urine ,7.0,2.3,33.0,Blonde,100.43478260869566
-Paranoia Fût,8.0,2.0,25.0,Blonde,100.0
 Delirium Tremens Fût,8.0,2.0,25.0,Blonde,100.0
-Vraie bière (la),6.0,2.0,33.0,Blonde,99.0
+Paranoia Fût,8.0,2.0,25.0,Blonde,100.0
 St Hubertus Triple,7.2,2.4,33.0,Blonde,99.0
 Betchard blonde,6.0,2.0,33.0,Blonde,99.0
+Vraie bière (la),6.0,2.0,33.0,Blonde,99.0
 Sweet alma,8.0,2.7,33.0,Blonde,97.77777777777777
 Station 16 saison,8.0,2.7,33.0,Blonde,97.77777777777777
 Sans grade,6.5,2.2,33.0,Blonde,97.49999999999999
@@ -102,18 +101,18 @@ Triple Bertha,7.0,2.5,33.0,Blonde,92.4
 Cuvée ds trolls,7.5,6.1,75.0,Blonde,92.21311475409837
 Cuvée des trolls Fût,7.0,1.9,25.0,Blonde,92.10526315789474
 Val Dieu blonde,5.5,2.0,33.0,Blonde,90.75
-Tongerlo blonde lux,6.0,2.2,33.0,Blonde,89.99999999999999
-Wander,6.0,2.2,33.0,Blonde,89.99999999999999
-Vedette IPA,6.0,2.2,33.0,Blonde,89.99999999999999
 Lupulus hopéra,6.0,2.2,33.0,Blonde,89.99999999999999
+Vedette IPA,6.0,2.2,33.0,Blonde,89.99999999999999
 Duvel 666,6.0,2.2,33.0,Blonde,89.99999999999999
+Wander,6.0,2.2,33.0,Blonde,89.99999999999999
+Tongerlo blonde lux,6.0,2.2,33.0,Blonde,89.99999999999999
 Li crochon blonde,6.8,1.9,25.0,Blonde,89.47368421052632
 Diôle,6.5,5.5,75.0,Blonde,88.63636363636364
 Houppe,7.5,2.8,33.0,Blonde,88.39285714285715
 Rulles blonde,7.0,6.0,75.0,Blonde,87.5
 Fresh hops,5.5,2.1,33.0,Blonde,86.42857142857143
-Zinnebir,6.0,2.3,33.0,Blonde,86.08695652173914
 Brugse zot blonde,6.0,2.3,33.0,Blonde,86.08695652173914
+Zinnebir,6.0,2.3,33.0,Blonde,86.08695652173914
 Gouyasse,6.0,2.3,33.0,Blonde,86.08695652173914
 Abbaye bonne esperance,6.3,5.5,75.0,Blonde,85.9090909090909
 Blonde du pays noir,7.0,2.7,33.0,Blonde,85.55555555555554
@@ -125,15 +124,15 @@ Abbay bonne esperance,6.3,2.5,33.0,Blonde,83.16
 Amer Amer,6.0,2.4,33.0,Blonde,82.5
 Epervier,7.0,2.8,33.0,Blonde,82.5
 Rasta trolls,7.0,2.8,33.0,Blonde,82.5
-Curieuse neus,7.5,3.0,33.0,Blonde,82.5
 Bertinchamps légère,5.0,2.0,33.0,Blonde,82.5
+Curieuse neus,7.5,3.0,33.0,Blonde,82.5
 Quatre saison (IV saison),6.5,2.6,33.0,Blonde,82.5
 Quintine bio,5.9,2.4,33.0,Blonde,81.12500000000001
 Marteau,8.0,3.3,33.0,Blonde,80.0
 Sarazen bio,6.5,2.7,33.0,Blonde,79.44444444444444
 Ename blonde,6.5,2.7,33.0,Blonde,79.44444444444444
-Westmalle extra,4.8,2.0,33.0,Blonde,79.2
 Saison 1858,6.0,2.5,33.0,Blonde,79.2
+Westmalle extra,4.8,2.0,33.0,Blonde,79.2
 franc belge,5.2,2.2,33.0,Blonde,77.99999999999999
 Bertinchamps ipa Fût ,5.6,1.8,25.0,Blonde,77.77777777777777
 Rochehaut IPA,7.0,3.0,33.0,Blonde,77.0
@@ -144,8 +143,8 @@ Bastogne Pale Ale,5.5,2.4,33.0,Blonde,75.625
 Delirium tremens,8.3,8.3,75.0,Blonde,75.0
 Maredsous 6,6.0,6.0,75.0,Blonde,75.0
 Kasteel extra,4.5,2.0,33.0,Blonde,74.25
-Chatte (la),6.0,2.7,33.0,Blonde,73.33333333333333
 Radine triple,6.0,2.7,33.0,Blonde,73.33333333333333
+Chatte (la),6.0,2.7,33.0,Blonde,73.33333333333333
 Brassin des Princes,5.5,2.5,33.0,Blonde,72.6
 Grisette bio gluten free,5.5,1.9,25.0,Blonde,72.36842105263159
 Smashine,6.3,2.9,33.0,Blonde,71.6896551724138
