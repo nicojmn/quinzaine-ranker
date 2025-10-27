@@ -1,41 +1,21 @@
-,Degree,Price,Volume,Type,Ratio
-Bush 12,12.0,7.0,75.0,Ambrée,128.57142857142858
-Lupulus Hibernatus,9.0,5.7,75.0,Brune,118.42105263157895
-Lupulus blonde,8.5,5.5,75.0,Blonde,115.9090909090909
-Lupulus brune,8.5,5.7,75.0,Brune,111.84210526315789
-Binchoise brune,7.7,5.3,75.0,Brune,108.9622641509434
-Chimay Blanche (Cinq Cents),8.0,5.6,75.0,Trappiste,107.14285714285715
-Moinette blonde,8.5,6.0,75.0,Blonde,106.25
-Lupulus Organicus,8.5,6.0,75.0,Blonde,106.25
-Westmalle triple,9.5,7.2,75.0,Trappiste,98.95833333333333
-Chouffe,8.0,6.2,75.0,Blonde,96.77419354838709
-Val Dieu Triple,9.0,7.0,75.0,Blonde,96.42857142857143
-Chimay grande reserve (bleue),9.0,7.0,75.0,Trappiste,96.42857142857143
-Gauloise blonde,6.3,5.0,75.0,Blonde,94.5
-houppe ,7.5,6.0,75.0,Blonde,93.75
-Li crochon blonde,6.8,5.5,75.0,Blonde,92.72727272727273
-Triple Moine,7.3,6.0,75.0,Blonde,91.25
-Binchoise blonde,6.2,5.1,75.0,Blonde,91.1764705882353
-Rulles triple,8.4,7.0,75.0,Blonde,90.0
-Maredsous 10,10.0,8.4,75.0,Ambrée,89.28571428571428
-Diôle,6.5,5.5,75.0,Blonde,88.63636363636364
-Chimay première (rouge),7.0,6.0,75.0,Trappiste,87.5
-Rulles blonde,7.0,6.0,75.0,Blonde,87.5
-Tournay blonde,6.7,6.0,75.0,Blonde,83.75
-Rulles brune,6.5,6.0,75.0,Brune,81.25
-Cuvée ds trolls,7.5,7.0,75.0,Blonde,80.35714285714286
-Lindemans Faro,5.0,5.0,75.0,Ambrée,75.0
-xx-Bitter,6.0,6.0,75.0,Blonde,75.0
-Triple Karmeliet,8.4,8.5,75.0,Blonde,74.11764705882354
-Delirium tremens,8.3,8.5,75.0,Blonde,73.23529411764706
-Abbaye bonne esperance,6.3,6.6,75.0,Blonde,71.5909090909091
-Philomène hoptimale,7.2,7.6,75.0,Ambrée,71.05263157894737
-Goliath triple,9.0,9.5,75.0,Blonde,71.05263157894737
-Delirium red,8.0,8.5,75.0,Fruitée,70.58823529411765
-Curtius,7.0,7.7,75.0,Blonde,68.18181818181819
-Rulles estivale,5.0,6.0,75.0,Blonde,62.5
-Chatte (la),6.0,7.2,75.0,Blonde,62.5
-Maredsous 6,6.0,7.2,75.0,Blonde,62.5
-Goliath blonde,6.0,7.8,75.0,Blonde,57.69230769230769
-Mirakel,6.0,10.2,75.0,Blonde,44.11764705882353
-Lindemans pêcheresse,2.5,8.5,75.0,Fruitée,22.058823529411764
+Rank,Name,Price,Volume,Type,Degree,Available,Ratio
+1,Bush 12,7,75,Ambrée,12,True,128.57142857142858
+2,Moinette brune,5,75,Brune,8.5,True,127.5
+3,Lupulus Hibernatus,5.7,75,Brune,9,True,118.42105263157895
+4,Lupulus blonde,5.5,75,Blonde,8.5,True,115.9090909090909
+5,Lupulus brune,5.7,75,Brune,8.5,True,111.84210526315789
+6,Binchoise brune,5.3,75,Brune,7.7,True,108.9622641509434
+7,Chimay Blanche (Cinq Cents),5.6,75,Trappiste,8,True,107.14285714285715
+8,Moinette blonde,6,75,Blonde,8.5,True,106.25
+9,Lupulus Organicus,6,75,Blonde,8.5,True,106.25
+10,Westmalle triple,7.2,75,Trappiste,9.5,True,98.95833333333333
+11,Val Dieu grand cru,8,75,Brune,10.5,True,98.4375
+12,Li crochon brune,6.7,75,Brune,8.7,True,97.38805970149254
+13,Chouffe,6.2,75,Blonde,8,True,96.77419354838709
+14,Val Dieu Triple,7,75,Blonde,9,True,96.42857142857143
+15,Chimay grande reserve (bleue),7,75,Trappiste,9,True,96.42857142857143
+16,Gauloise blonde,5,75,Blonde,6.3,True,94.5
+17,Houppe,6,75,Blonde,7.5,True,93.75
+18,houppe ,6,75,Blonde,7.5,True,93.75
+19,Fagnes blonde,6,75,Blonde,7.5,True,93.75
+20,Li crochon blonde,5.5,75,Blonde,6.8,True,92.72727272727273

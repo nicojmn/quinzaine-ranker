@@ -1,9 +1,9 @@
-,Degree,Price,Volume,Type,Ratio
-Bon secours prestige,9.0,2.8,33.0,Blanche,106.07142857142858
-St Hubertus Blanche Fût,7.2,2.0,25.0,Blanche,90.0
-Chouffe blanche,6.0,2.2,33.0,Blanche,89.99999999999999
-Blanche de Bruxelles,4.5,2.0,33.0,Blanche,74.25
-St bernardus witbier,5.5,2.5,33.0,Blanche,72.6
-Boriner vice ,6.0,2.9,33.0,Blanche,68.27586206896552
-Blanche de Namur,4.5,1.8,25.0,Blanche,62.5
-Troublette,5.6,3.0,33.0,Blanche,61.599999999999994
+Rank,Name,Price,Volume,Type,Degree,Available,Ratio
+1,Bon secours prestige,2.8,33,Blanche,9,True,106.07142857142858
+2,St Hubertus Blanche Fût,2,25,Blanche,7.2,True,90.0
+3,Chouffe blanche,2.2,33,Blanche,6,True,89.99999999999999
+4,Blanche de Bruxelles,2,33,Blanche,4.5,True,74.25
+5,St bernardus witbier,2.5,33,Blanche,5.5,True,72.6
+6,Boriner vice ,2.9,33,Blanche,6,True,68.27586206896552
+7,Blanche de Namur,1.8,25,Blanche,4.5,True,62.5
+8,Troublette,3,33,Blanche,5.6,True,61.599999999999994

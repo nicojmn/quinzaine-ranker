@@ -1,13 +1,14 @@
-,Degree,Price,Volume,Type,Ratio
-Chimay rouge,9.0,2.2,33.0,Trappiste,135.0
-Rochefort triple extra ,9.0,2.4,33.0,Trappiste,123.75
-Rochefort 10,11.3,3.1,33.0,Trappiste,120.29032258064517
-Rochefort 8,9.2,2.7,33.0,Trappiste,112.44444444444443
-Chimay blanche,8.0,2.4,33.0,Trappiste,110.0
-Chimay bleue,9.0,3.0,33.0,Trappiste,99.0
-Rochefort 6,7.5,2.6,33.0,Trappiste,95.1923076923077
-Chimay Verte (150),10.0,3.5,33.0,Trappiste,94.28571428571429
-Westmalle double,7.0,2.7,33.0,Trappiste,85.55555555555554
-Westmalle extra,4.8,2.1,33.0,Trappiste,75.42857142857143
-Orval,6.2,3.0,33.0,Trappiste,68.2
-Chimay dorée,4.8,2.7,33.0,Trappiste,58.666666666666664
+Rank,Name,Price,Volume,Type,Degree,Available,Ratio
+1,Chimay rouge,2.2,33,Trappiste,9,True,135.0
+2,Westmalle triple,2.5,33,Trappiste,9.5,True,125.4
+3,Rochefort triple extra ,2.4,33,Trappiste,9,True,123.75
+4,Rochefort 10,3.1,33,Trappiste,11.3,True,120.29032258064517
+5,Rochefort 8,2.7,33,Trappiste,9.2,True,112.44444444444443
+6,Chimay blanche,2.4,33,Trappiste,8,True,110.0
+7,Chimay bleue,3,33,Trappiste,9,True,99.0
+8,Rochefort 6,2.6,33,Trappiste,7.5,True,95.1923076923077
+9,Chimay Verte (150),3.5,33,Trappiste,10,True,94.28571428571429
+10,Westmalle double,2.7,33,Trappiste,7,True,85.55555555555554
+11,Westmalle extra,2.1,33,Trappiste,4.8,True,75.42857142857143
+12,Orval,3,33,Trappiste,6.2,True,68.2
+13,Chimay dorée,2.7,33,Trappiste,4.8,True,58.666666666666664

@@ -1,27 +1,21 @@
-,Degree,Price,Volume,Type,Ratio
-Piraat,10.5,2.5,33.0,Ambrée,138.6
-Bush 12 Fût,12.0,2.2,25.0,Ambrée,136.36363636363635
-Corne du bois des pendus quadruple ,12.0,3.0,33.0,Ambrée,132.0
-Gulden Draak 9000,10.5,2.9,33.0,Ambrée,119.48275862068967
-Bon secours heritage,8.0,2.5,33.0,Ambrée,105.6
-Troubadour magma,9.0,2.9,33.0,Ambrée,102.41379310344828
-Carolus ambrio,8.0,2.6,33.0,Ambrée,101.53846153846153
-Quintine ambrée,8.5,2.9,33.0,Ambrée,96.72413793103449
-Satan red,8.0,2.8,33.0,Ambrée,94.28571428571429
-Divine (la),8.5,3.0,33.0,Ambrée,93.5
-Kwak,8.4,3.1,33.0,Ambrée,89.41935483870967
-St Hubertus Ambrée,7.2,2.8,33.0,Ambrée,84.85714285714286
-Fumette (la),6.5,2.6,33.0,Ambrée,82.5
-Caracole,7.5,3.0,33.0,Ambrée,82.5
-St Hubertus Ambrée Fût,7.2,2.2,25.0,Ambrée,81.81818181818181
-Gauloise ambrée,5.6,2.3,33.0,Ambrée,80.34782608695652
-Delirium argentum,7.0,2.9,33.0,Ambrée,79.65517241379311
-Queue de charrue ambrée,5.6,2.4,33.0,Ambrée,77.0
-Durbuy,5.5,2.5,33.0,Ambrée,72.6
-100 PAP,6.0,2.8,33.0,Ambrée,70.71428571428572
-Saint Monon au miel,6.5,3.1,33.0,Ambrée,69.19354838709677
-Jungle Joy,6.6,3.2,33.0,Ambrée,68.06249999999999
-Bruxellensis,6.5,3.2,33.0,Ambrée,67.03125
-Lindemans gueuze,4.5,1.7,25.0,Ambrée,66.17647058823529
-Lindemans faro,4.2,1.8,25.0,Ambrée,58.33333333333333
-Petite vertue (la),4.7,3.0,33.0,Ambrée,51.699999999999996
+Rank,Name,Price,Volume,Type,Degree,Available,Ratio
+1,Piraat,2.5,33,Ambrée,10.5,True,138.6
+2,Bush 12 Fût,2.2,25,Ambrée,12,True,136.36363636363635
+3,Corne du bois des pendus quadruple ,3,33,Ambrée,12,True,132.0
+4,Gulden Draak 9000,2.9,33,Ambrée,10.5,True,119.48275862068967
+5,Maredsous 10,3.1,33,Ambrée,10,True,106.45161290322581
+6,Bon secours heritage,2.5,33,Ambrée,8,True,105.6
+7,Troubadour magma,2.9,33,Ambrée,9,True,102.41379310344828
+8,Carolus ambrio,2.6,33,Ambrée,8,True,101.53846153846153
+9,Quintine ambrée,2.9,33,Ambrée,8.5,True,96.72413793103449
+10,Satan red,2.8,33,Ambrée,8,True,94.28571428571429
+11,Divine (la),3,33,Ambrée,8.5,True,93.5
+12,Kwak,3.1,33,Ambrée,8.4,True,89.41935483870967
+13,St Hubertus Ambrée,2.8,33,Ambrée,7.2,True,84.85714285714286
+14,Fumette (la),2.6,33,Ambrée,6.5,True,82.5
+15,Caracole,3,33,Ambrée,7.5,True,82.5
+16,St Hubertus Ambrée Fût,2.2,25,Ambrée,7.2,True,81.81818181818181
+17,Gauloise ambrée,2.3,33,Ambrée,5.6,True,80.34782608695652
+18,Delirium argentum,2.9,33,Ambrée,7,True,79.65517241379311
+19,Philomène hoptimale,3,33,Ambrée,7.2,True,79.2
+20,Queue de charrue ambrée,2.4,33,Ambrée,5.6,True,77.0
