@@ -21,12 +21,12 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 20,Lupulus Hibernatus,5.7,75,Brune,9,True,118.42105263157895
 21,Corne du bois des pendus 10 triple,2.8,33,Blonde,10,True,117.85714285714286
 22,Straffe Hendrik quadrupel,3.1,33,Brune,11,True,117.09677419354838
-23,Duvel,2.4,33,Blonde,8.5,True,116.875
-24,Moinette brune,2.4,33,Brune,8.5,True,116.875
+23,Moinette brune,2.4,33,Brune,8.5,True,116.875
+24,Duvel,2.4,33,Blonde,8.5,True,116.875
 25,Malheur 12,3.4,33,Brune,12,True,116.47058823529412
 26,Lupulus blonde,5.5,75,Blonde,8.5,True,115.9090909090909
-27,Saint Bernardus Prior 8,2.3,33,Brune,8,True,114.78260869565219
-28,Triple plaisir (la),2.3,33,Blonde,8,True,114.78260869565219
+27,Triple plaisir (la),2.3,33,Blonde,8,True,114.78260869565219
+28,Saint Bernardus Prior 8,2.3,33,Brune,8,True,114.78260869565219
 29,Carolus triple d'or,2.6,33,Blonde,9,True,114.23076923076923
 30,Jupiler Fût,1.2,25,Blonde,5.4,True,112.5
 31,Rochefort 8,2.7,33,Trappiste,9.2,True,112.44444444444443
@@ -35,17 +35,17 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 34,Gauloise brune,2.4,33,Brune,8.1,True,111.37500000000001
 35,Bertinchamps triple Fût,1.8,25,Blonde,8,True,111.11111111111111
 36,Cuvée des trolls,2.1,33,Blonde,7,True,110.0
-37,Chimay blanche,2.4,33,Trappiste,8,True,110.0
-38,Mc Chouffe,2.4,33,Brune,8,True,110.0
-39,Malheur 10,3,33,Blonde,10,True,110.0
-40,Saint Bernardus Abr 12,3,33,Brune,10,True,110.0
-41,Goliath triple,2.7,33,Blonde,9,True,109.99999999999999
-42,To touille ,2.7,33,Blonde,9,True,109.99999999999999
+37,Mc Chouffe,2.4,33,Brune,8,True,110.0
+38,Chimay blanche,2.4,33,Trappiste,8,True,110.0
+39,Saint Bernardus Abr 12,3,33,Brune,10,True,110.0
+40,Malheur 10,3,33,Blonde,10,True,110.0
+41,To touille ,2.7,33,Blonde,9,True,109.99999999999999
+42,Goliath triple,2.7,33,Blonde,9,True,109.99999999999999
 43,Binchoise brune,5.3,75,Brune,7.7,True,108.9622641509434
 44,Delirium nocturnum,2.6,33,Brune,8.5,True,107.88461538461539
-45,Moinette blonde,2.6,33,Blonde,8.5,True,107.88461538461539
-46,Carolus classic,2.6,33,Brune,8.5,True,107.88461538461539
-47,lupulus organicus,2.6,33,Blonde,8.5,True,107.88461538461539
+45,Carolus classic,2.6,33,Brune,8.5,True,107.88461538461539
+46,lupulus organicus,2.6,33,Blonde,8.5,True,107.88461538461539
+47,Moinette blonde,2.6,33,Blonde,8.5,True,107.88461538461539
 48,Saison Dupont,2,33,Blonde,6.5,True,107.25
 49,Chimay Blanche (Cinq Cents),5.6,75,Trappiste,8,True,107.14285714285715
 50,Maredsous 10,3.1,33,Ambrée,10,True,106.45161290322581
@@ -53,37 +53,37 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 52,Lupulus blonde Fût,2,25,Blonde,8.5,True,106.25
 53,Moinette blonde,6,75,Blonde,8.5,True,106.25
 54,Lupulus Organicus,6,75,Blonde,8.5,True,106.25
-55,Tongerlo prior,2.8,33,Blonde,9,True,106.07142857142858
-56,Chatte noire (la),2.8,33,Brune,9,True,106.07142857142858
-57,Chouffe houblon triple,2.8,33,Blonde,9,True,106.07142857142858
-58,Bon secours Noël,2.8,33,Blonde,9,True,106.07142857142858
-59,Saint Idesbald triple,2.8,33,Blonde,9,True,106.07142857142858
+55,Saint Idesbald triple,2.8,33,Blonde,9,True,106.07142857142858
+56,Chouffe houblon triple,2.8,33,Blonde,9,True,106.07142857142858
+57,Bon secours Noël,2.8,33,Blonde,9,True,106.07142857142858
+58,Tongerlo prior,2.8,33,Blonde,9,True,106.07142857142858
+59,Chatte noire (la),2.8,33,Brune,9,True,106.07142857142858
 60,Bon secours prestige,2.8,33,Blanche,9,True,106.07142857142858
 61,Val Dieu triple,2.8,33,Blonde,9,True,106.07142857142858
-62,Floreffe prima melior,2.5,33,Brune,8,True,105.6
-63,Tripick blonde,2.5,33,Blonde,8,True,105.6
-64,Chouffe,2.5,33,Blonde,8,True,105.6
-65,Bon secours heritage,2.5,33,Ambrée,8,True,105.6
-66,Beer Lambert,2.5,33,Blonde,8,True,105.6
-67,Omer,2.5,33,Blonde,8,True,105.6
+62,Omer,2.5,33,Blonde,8,True,105.6
+63,Chouffe,2.5,33,Blonde,8,True,105.6
+64,Beer Lambert,2.5,33,Blonde,8,True,105.6
+65,Floreffe prima melior,2.5,33,Brune,8,True,105.6
+66,Bon secours heritage,2.5,33,Ambrée,8,True,105.6
+67,Tripick blonde,2.5,33,Blonde,8,True,105.6
 68,Val Dieu grand cru,3.3,33,Brune,10.5,True,105.0
 69,Dupont les bons voeux,3.4,37.5,Blonde,9.5,True,104.77941176470588
 70,Gauloise fruits rouges,2.6,33,Fruitée,8.2,True,104.07692307692307
-71,Charles Quint rouge rubis,2.7,33,Brune,8.5,True,103.88888888888889
-72,Barbar Bok,2.7,33,Brune,8.5,True,103.88888888888889
-73,Charles Quint blonde dorée,2.7,33,Blonde,8.5,True,103.88888888888889
+71,Charles Quint blonde dorée,2.7,33,Blonde,8.5,True,103.88888888888889
+72,Charles Quint rouge rubis,2.7,33,Brune,8.5,True,103.88888888888889
+73,Barbar Bok,2.7,33,Brune,8.5,True,103.88888888888889
 74,Paix Dieu,3.2,33,Blonde,10,True,103.125
 75,Empire (l’),3.2,33,Blonde,10,True,103.125
 76,Bertinchamps triple ,3.9,50,Blonde,8,True,102.56410256410257
-77,Impératrice (l’),2.9,33,Blonde,9,True,102.41379310344828
-78,Troubadour magma,2.9,33,Ambrée,9,True,102.41379310344828
+77,Troubadour magma,2.9,33,Ambrée,9,True,102.41379310344828
+78,Impératrice (l’),2.9,33,Blonde,9,True,102.41379310344828
 79,Straffe Hendrik triple,2.9,33,Blonde,9,True,102.41379310344828
 80,Nostradamus,3.2,33,Brune,9.9,True,102.09374999999999
-81,Charles Quint ommegang,2.6,33,Blonde,8,True,101.53846153846153
+81,Val Dieu brune,2.6,33,Brune,8,True,101.53846153846153
 82,Carolus ambrio,2.6,33,Ambrée,8,True,101.53846153846153
-83,Esprit triple,2.6,33,Blonde,8,True,101.53846153846153
-84,Barbar,2.6,33,Blonde,8,True,101.53846153846153
-85,Val Dieu brune,2.6,33,Brune,8,True,101.53846153846153
+83,Barbar,2.6,33,Blonde,8,True,101.53846153846153
+84,Charles Quint ommegang,2.6,33,Blonde,8,True,101.53846153846153
+85,Esprit triple,2.6,33,Blonde,8,True,101.53846153846153
 86,Bon secours tradition,2.6,33,Blonde,8,True,101.53846153846153
 87,Hopus,2.7,33,Blonde,8.3,True,101.44444444444446
 88,Tête de mort Fût,2,25,Blonde,8.1,True,101.25
@@ -91,11 +91,11 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 90,Triple moine,2.4,33,Blonde,7.3,True,100.375
 91,Troubadour obscura,2.7,33,Brune,8.2,True,100.2222222222222
 92,Frambush,2.8,33,Fruitée,8.5,True,100.17857142857143
-93,Pêche Mel Bush Fût,2,25,Fruitée,8,True,100.0
-94,Delirium Tremens Fût,2,25,Blonde,8,True,100.0
-95,Chouffe cherry Fût,2,25,Fruitée,8,True,100.0
-96,Paranoia Fût,2,25,Blonde,8,True,100.0
-97,Delirium red Fût,2,25,Fruitée,8,True,100.0
+93,Paranoia Fût,2,25,Blonde,8,True,100.0
+94,Pêche Mel Bush Fût,2,25,Fruitée,8,True,100.0
+95,Delirium red Fût,2,25,Fruitée,8,True,100.0
+96,Chouffe cherry Fût,2,25,Fruitée,8,True,100.0
+97,Delirium Tremens Fût,2,25,Blonde,8,True,100.0
 98,Rulles Grande 10 ,3.3,33,Blonde,10,True,100.0
 99,Bertinchamps brune,3.5,50,Brune,7,True,100.0
 100,Gauloise blonde,2.1,33,Blonde,6.3,True,99.0
@@ -103,46 +103,46 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 102,Guillotine (la),3,33,Blonde,9,True,99.0
 103,Westmalle triple,7.2,75,Trappiste,9.5,True,98.95833333333333
 104,Val Dieu grand cru,8,75,Brune,10.5,True,98.4375
-105,Belle-fleur,3.2,33,Blonde,9.5,True,97.96875
-106,Duvel triple hop cashmere,3.2,33,Blonde,9.5,True,97.96875
-107,Station 16 saison,2.7,33,Blonde,8,True,97.77777777777777
+105,Duvel triple hop cashmere,3.2,33,Blonde,9.5,True,97.96875
+106,Belle-fleur,3.2,33,Blonde,9.5,True,97.96875
+107,Silly Scotch,2.7,33,Brune,8,True,97.77777777777777
 108,Corne du bois des pendus black,2.7,33,Brune,8,True,97.77777777777777
-109,Silly Scotch,2.7,33,Brune,8,True,97.77777777777777
+109,Station 16 saison,2.7,33,Blonde,8,True,97.77777777777777
 110,Saint Idesbald blonde,2.2,33,Blonde,6.5,True,97.49999999999999
 111,Li crochon brune,6.7,75,Brune,8.7,True,97.38805970149254
 112,Chouffe,6.2,75,Blonde,8,True,96.77419354838709
-113,Mobius triple bio,2.9,33,Blonde,8.5,True,96.72413793103449
-114,Carolus whisky infused,2.9,33,Blonde,8.5,True,96.72413793103449
-115,Peak triple ,2.9,33,Blonde,8.5,True,96.72413793103449
-116,Quintine ambrée,2.9,33,Ambrée,8.5,True,96.72413793103449
-117,Saint feuillien triple,2.9,33,Blonde,8.5,True,96.72413793103449
-118,Val Dieu Triple,7,75,Blonde,9,True,96.42857142857143
-119,Chimay grande reserve (bleue),7,75,Trappiste,9,True,96.42857142857143
+113,Saint feuillien triple,2.9,33,Blonde,8.5,True,96.72413793103449
+114,Peak triple ,2.9,33,Blonde,8.5,True,96.72413793103449
+115,Carolus whisky infused,2.9,33,Blonde,8.5,True,96.72413793103449
+116,Mobius triple bio,2.9,33,Blonde,8.5,True,96.72413793103449
+117,Quintine ambrée,2.9,33,Ambrée,8.5,True,96.72413793103449
+118,Chimay grande reserve (bleue),7,75,Trappiste,9,True,96.42857142857143
+119,Val Dieu Triple,7,75,Blonde,9,True,96.42857142857143
 120,Big nose,3.1,33,Blonde,9,True,95.80645161290322
-121,Barbe d'or,2.6,33,Blonde,7.5,True,95.1923076923077
-122,Saint feuillien blonde,2.6,33,Blonde,7.5,True,95.1923076923077
-123,Rochefort 6,2.6,33,Trappiste,7.5,True,95.1923076923077
+121,Rochefort 6,2.6,33,Trappiste,7.5,True,95.1923076923077
+122,Barbe d'or,2.6,33,Blonde,7.5,True,95.1923076923077
+123,Saint feuillien blonde,2.6,33,Blonde,7.5,True,95.1923076923077
 124,Floreffe blonde,2.2,33,Blonde,6.3,True,94.5
 125,Gauloise blonde,5,75,Blonde,6.3,True,94.5
-126,Jambe de bois,2.8,33,Blonde,8,True,94.28571428571429
-127,Waterloo triple,2.8,33,Blonde,8,True,94.28571428571429
-128,Leopold 7 triple de hesbaye,2.8,33,Blonde,8,True,94.28571428571429
-129,Maredsous 8,2.8,33,Brune,8,True,94.28571428571429
-130,Waterloo dark,2.8,33,Brune,8,True,94.28571428571429
-131,Quintine blonde,2.8,33,Blonde,8,True,94.28571428571429
+126,Waterloo triple,2.8,33,Blonde,8,True,94.28571428571429
+127,Quintine blonde,2.8,33,Blonde,8,True,94.28571428571429
+128,Waterloo dark,2.8,33,Brune,8,True,94.28571428571429
+129,Fruit défendu,2.8,33,Brune,8,True,94.28571428571429
+130,Leopold 7 triple de hesbaye,2.8,33,Blonde,8,True,94.28571428571429
+131,Jambe de bois,2.8,33,Blonde,8,True,94.28571428571429
 132,Satan red,2.8,33,Ambrée,8,True,94.28571428571429
-133,Fruit défendu,2.8,33,Brune,8,True,94.28571428571429
+133,Maredsous 8,2.8,33,Brune,8,True,94.28571428571429
 134,Chimay Verte (150),3.5,33,Trappiste,10,True,94.28571428571429
 135,xx-Bitter,2.1,33,Blonde,6,True,94.28571428571428
-136,Houppe,6,75,Blonde,7.5,True,93.75
-137,houppe ,6,75,Blonde,7.5,True,93.75
-138,Fagnes blonde,6,75,Blonde,7.5,True,93.75
+136,Fagnes blonde,6,75,Blonde,7.5,True,93.75
+137,Houppe,6,75,Blonde,7.5,True,93.75
+138,houppe ,6,75,Blonde,7.5,True,93.75
 139,Divine (la),3,33,Ambrée,8.5,True,93.5
 140,Barbe noire,3.2,33,Brune,9,True,92.8125
 141,Val dieu fruitee,3.2,33,Fruitée,9,True,92.8125
 142,Li crochon blonde,5.5,75,Blonde,6.8,True,92.72727272727273
-143,Bersalis triple,3.4,33,Blonde,9.5,True,92.20588235294117
-144,Valduc Thor,3.4,33,Brune,9.5,True,92.20588235294117
+143,Valduc Thor,3.4,33,Brune,9.5,True,92.20588235294117
+144,Bersalis triple,3.4,33,Blonde,9.5,True,92.20588235294117
 145,Tongerlo brune nox,2.4,33,Brune,6.7,True,92.125
 146,Triple Moine,6,75,Blonde,7.3,True,91.25
 147,Binchoise blonde,5.1,75,Blonde,6.2,True,91.1764705882353
@@ -152,45 +152,45 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 151,Tête de mort red ,3,33,Fruitée,8.2,True,90.19999999999999
 152,St Hubertus Blanche Fût,2,25,Blanche,7.2,True,90.0
 153,Rulles triple,7,75,Blonde,8.4,True,90.0
-154,Chouffe blanche,2.2,33,Blanche,6,True,89.99999999999999
-155,Goliath blonde,2.2,33,Blonde,6,True,89.99999999999999
-156,Harmony,2.2,33,Blonde,6,True,89.99999999999999
+154,Goliath blonde,2.2,33,Blonde,6,True,89.99999999999999
+155,Harmony,2.2,33,Blonde,6,True,89.99999999999999
+156,Chouffe blanche,2.2,33,Blanche,6,True,89.99999999999999
 157,Kwak,3.1,33,Ambrée,8.4,True,89.41935483870967
 158,Maredsous 10,8.4,75,Ambrée,10,True,89.28571428571428
-159,Saison Dupont,5.5,75,Blonde,6.5,True,88.63636363636364
-160,Diôle,5.5,75,Blonde,6.5,True,88.63636363636364
+159,Diôle,5.5,75,Blonde,6.5,True,88.63636363636364
+160,Saison Dupont,5.5,75,Blonde,6.5,True,88.63636363636364
 161,Floreffe triple,2.8,33,Blonde,7.5,True,88.39285714285715
-162,Petrus triple d'or,2.8,33,Blonde,7.5,True,88.39285714285715
-163,Fagnes blonde,2.8,33,Blonde,7.5,True,88.39285714285715
+162,Fagnes blonde,2.8,33,Blonde,7.5,True,88.39285714285715
+163,Petrus triple d'or,2.8,33,Blonde,7.5,True,88.39285714285715
 164,Rochehaut blonde triple ,3,33,Blonde,8,True,88.0
 165,Binchoise des ours,3.2,33,Blonde,8.5,True,87.65625
 166,Cuvée des trolls Fût,2,25,Blonde,7,True,87.5
-167,Rulles blonde,6,75,Blonde,7,True,87.5
-168,Chimay première (rouge),6,75,Trappiste,7,True,87.5
+167,Chimay première (rouge),6,75,Trappiste,7,True,87.5
+168,Rulles blonde,6,75,Blonde,7,True,87.5
 169,Philomène céleste,3.4,33,Blonde,9,True,87.3529411764706
-170,Gouyasse,2.3,33,Blonde,6,True,86.08695652173914
-171,Vraie bière (la),2.3,33,Blonde,6,True,86.08695652173914
+170,Vraie bière (la),2.3,33,Blonde,6,True,86.08695652173914
+171,Gouyasse,2.3,33,Blonde,6,True,86.08695652173914
 172,Vedette IPA,2.3,33,Blonde,6,True,86.08695652173914
 173,Babylone,2.7,33,Blonde,7,True,85.55555555555554
 174,Westmalle double,2.7,33,Trappiste,7,True,85.55555555555554
 175,Papegaie,3.1,33,Brune,8,True,85.16129032258064
 176,Tournay blonde,2.6,33,Blonde,6.7,True,85.03846153846153
 177,Li crochon blonde,2,25,Blonde,6.8,True,85.0
-178,St Hubertus Ambrée,2.8,33,Ambrée,7.2,True,84.85714285714286
-179,St Hubertus Triple,2.8,33,Blonde,7.2,True,84.85714285714286
+178,St Hubertus Triple,2.8,33,Blonde,7.2,True,84.85714285714286
+179,St Hubertus Ambrée,2.8,33,Ambrée,7.2,True,84.85714285714286
 180,Rulles triple fût,2.5,25,Blonde,8.4,True,84.0
 181,Tournay blonde,6,75,Blonde,6.7,True,83.75
 182,Li crochon brune,2.6,25,Brune,8.7,True,83.65384615384615
 183,Lindemans tarot noir,2.4,25,Fruitée,8,True,83.33333333333334
 184,Duvel 666 Fût,2,25,Blonde,6.66,True,83.25
 185,Gulden Draak,9.7,75,Brune,10.7,True,82.7319587628866
-186,Amer Amer,2.4,33,Blonde,6,True,82.5
+186,Tongerlo blonde lux,2.4,33,Blonde,6,True,82.5
 187,Maredsous 6,2.4,33,Blonde,6,True,82.5
-188,Tongerlo blonde lux,2.4,33,Blonde,6,True,82.5
-189,Fumette (la),2.6,33,Ambrée,6.5,True,82.5
-190,Quatre saison (IV saison),2.6,33,Blonde,6.5,True,82.5
-191,Rasta trolls,2.8,33,Blonde,7,True,82.5
-192,Bon secours myrtille,2.8,33,Fruitée,7,True,82.5
+188,Amer Amer,2.4,33,Blonde,6,True,82.5
+189,Quatre saison (IV saison),2.6,33,Blonde,6.5,True,82.5
+190,Fumette (la),2.6,33,Ambrée,6.5,True,82.5
+191,Bon secours myrtille,2.8,33,Fruitée,7,True,82.5
+192,Rasta trolls,2.8,33,Blonde,7,True,82.5
 193,Caracole,3,33,Ambrée,7.5,True,82.5
 194,Saxo,3.1,33,Blonde,7.7,True,81.96774193548387
 195,St Hubertus Ambrée Fût,2.2,25,Ambrée,7.2,True,81.81818181818181
@@ -204,24 +204,24 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 203,Big mama,3.3,33,Brune,8,True,80.0
 204,Houppe,3.1,33,Blonde,7.5,True,79.83870967741936
 205,Binchoise des ours,8,75,Blonde,8.5,True,79.6875
-206,Triple Bertha,2.9,33,Blonde,7,True,79.65517241379311
-207,Delirium argentum,2.9,33,Ambrée,7,True,79.65517241379311
+206,Delirium argentum,2.9,33,Ambrée,7,True,79.65517241379311
+207,Triple Bertha,2.9,33,Blonde,7,True,79.65517241379311
 208,Kasteel rubus Fût,2.2,25,Fruitée,7,True,79.54545454545453
 209,Gembloux fruitée dans les bois,2.7,33,Fruitée,6.5,True,79.44444444444444
-210,Lupulus hopéra,2.5,33,Blonde,6,True,79.2
-211,Zinnebir,2.5,33,Blonde,6,True,79.2
-212,Waterloo Cherry,2.5,33,Fruitée,6,True,79.2
-213,Brugse zot blonde,2.5,33,Blonde,6,True,79.2
-214,Saison 1858,2.5,33,Blonde,6,True,79.2
+210,Waterloo Cherry,2.5,33,Fruitée,6,True,79.2
+211,Saison 1858,2.5,33,Blonde,6,True,79.2
+212,Brugse zot blonde,2.5,33,Blonde,6,True,79.2
+213,Zinnebir,2.5,33,Blonde,6,True,79.2
+214,Lupulus hopéra,2.5,33,Blonde,6,True,79.2
 215,Philomène hoptimale,3,33,Ambrée,7.2,True,79.2
 216,Peak grand cru ,10,75,Brune,10.5,True,78.75
 217,Binchoise blonde,2.6,33,Blonde,6.2,True,78.6923076923077
 218,Bertinchamps blonde,4,50,Blonde,6.2,True,77.5
 219,Queue de charrue brune,2.3,33,Brune,5.4,True,77.47826086956523
 220,Queue de charrue ambrée,2.4,33,Ambrée,5.6,True,77.0
-221,Kerel Winter,3,33,Blonde,7,True,77.0
+221,Fagnes blood orange,3,33,Fruitée,7,True,77.0
 222,Kasteel tropicale ,3,33,Fruitée,7,True,77.0
-223,Fagnes blood orange,3,33,Fruitée,7,True,77.0
+223,Kerel Winter,3,33,Blonde,7,True,77.0
 224,Kasteel rubus,3,33,Fruitée,7,True,77.0
 225,Lindemans tarot d'or,2.6,25,Fruitée,8,True,76.92307692307692
 226,Ename blonde,2.8,33,Blonde,6.5,True,76.60714285714286
@@ -237,9 +237,9 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 236,Peak IPA ,2.9,33,Blonde,6.5,True,73.96551724137932
 237,Duvel 666,2.7,33,Blonde,6,True,73.33333333333333
 238,Delirium tremens,8.5,75,Blonde,8.3,True,73.23529411764706
-239,St bernardus witbier,2.5,33,Blanche,5.5,True,72.6
-240,Val Dieu blonde,2.5,33,Blonde,5.5,True,72.6
-241,Durbuy,2.5,33,Ambrée,5.5,True,72.6
+239,Val Dieu blonde,2.5,33,Blonde,5.5,True,72.6
+240,Durbuy,2.5,33,Ambrée,5.5,True,72.6
+241,St bernardus witbier,2.5,33,Blanche,5.5,True,72.6
 242,urine ,3.2,33,Blonde,7,True,72.1875
 243,Bertinchamps légère,2.3,33,Blonde,5,True,71.73913043478261
 244,Abbay bonne esperance,2.9,33,Blonde,6.3,True,71.6896551724138
@@ -251,8 +251,8 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 250,Curieuse neus,3.5,33,Blonde,7.5,True,70.71428571428571
 251,Delirium red,8.5,75,Fruitée,8,True,70.58823529411765
 252,Bertinchamps ipa Fût ,2,25,Blonde,5.6,True,70.0
-253,Rulles blonde fût,2.5,25,Blonde,7,True,70.0
-254,Ciney blonde,2.5,25,Blonde,7,True,70.0
+253,Ciney blonde,2.5,25,Blonde,7,True,70.0
+254,Rulles blonde fût,2.5,25,Blonde,7,True,70.0
 255,Bourgogne des flandres Fût,1.8,25,Brune,5,True,69.44444444444444
 256,Bertinchamps pamplemousse Fût,1.8,25,Fruitée,5,True,69.44444444444444
 257,Saint Monon au miel,3.1,33,Ambrée,6.5,True,69.19354838709677
@@ -262,9 +262,9 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 261,Orval,3,33,Trappiste,6.2,True,68.2
 262,Curtius,7.7,75,Blonde,7,True,68.18181818181819
 263,Jungle Joy,3.2,33,Ambrée,6.6,True,68.06249999999999
-264,Ardenne Rouge ,3.4,33,Fruitée,7,True,67.94117647058823
-265,Epervier,3.4,33,Blonde,7,True,67.94117647058823
-266,Rochehaut IPA,3.4,33,Blonde,7,True,67.94117647058823
+264,Rochehaut IPA,3.4,33,Blonde,7,True,67.94117647058823
+265,Ardenne Rouge ,3.4,33,Fruitée,7,True,67.94117647058823
+266,Epervier,3.4,33,Blonde,7,True,67.94117647058823
 267,Duchesse de bourgogne,2.3,25,Brune,6.2,True,67.3913043478261
 268,Brassin des Princes,2.7,33,Blonde,5.5,True,67.22222222222221
 269,Bruxellensis,3.2,33,Ambrée,6.5,True,67.03125
@@ -299,9 +299,9 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 298,Bacchus,3.6,37.5,Brune,4.5,True,46.875
 299,Mongozo banane,3.2,33,Fruitée,4.5,True,46.40625
 300,Rulles 23 ,2.6,33,Blonde,3.6,True,45.692307692307686
-301,Lupulus fructus Fût,2.2,25,Fruitée,4,True,45.45454545454545
-302,Timmermans framboise,2.2,25,Fruitée,4,True,45.45454545454545
-303,Timmermans pêche ,2.2,25,Fruitée,4,True,45.45454545454545
+301,Timmermans framboise,2.2,25,Fruitée,4,True,45.45454545454545
+302,Timmermans pêche ,2.2,25,Fruitée,4,True,45.45454545454545
+303,Lupulus fructus Fût,2.2,25,Fruitée,4,True,45.45454545454545
 304,Liefmans fruitesse kriek,2.1,25,Fruitée,3.8,True,45.238095238095234
 305,Mongozo coconut,3.3,33,Fruitée,4.5,True,45.0
 306,Newton,2.6,33,Fruitée,3.5,True,44.42307692307692
@@ -323,8 +323,8 @@ Rank,Name,Price,Volume,Type,Degree,Available,Ratio
 322,Lupulus bleuette 0.0%,2.3,33,Fruitée,0,True,0.0
 323,Ritchie grapefruit pineapple ,2.3,33,Fruitée,0,True,0.0
 324,Ritchie citron framboise ,2.3,33,Fruitée,0,True,0.0
-325,Ritchie cola ,2.4,33,Fruitée,0,True,0.0
-326,Liefmans 0 %,2.4,33,Fruitée,0,True,0.0
+325,Liefmans 0 %,2.4,33,Fruitée,0,True,0.0
+326,Ritchie cola ,2.4,33,Fruitée,0,True,0.0
 327,Bertinchamps passion 0%,2.6,33,Fruitée,0,True,0.0
 328,Kasteel Rouge 0.0%,2.8,33,Fruitée,0,True,0.0
 329,Bière des amis 0%,3.7,33,Blonde,0,True,0.0
