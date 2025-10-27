@@ -4,6 +4,7 @@ import pandas as pd
 
 from typing import Union, List
 
+
 def parse(filename: str, columns_to_keep: List[str]) -> Union[pd.DataFrame, None]:
     with open(filename, "r", encoding="utf-8") as file:
         content = file.read().split("--- SEPARATOR ---")[2]
@@ -66,6 +67,7 @@ def parse(filename: str, columns_to_keep: List[str]) -> Union[pd.DataFrame, None
             "Could not find the relevant data structure '[2, [{...}]]' in the input string."
         )
 
+
 def firestore_to_json(value_dict):
     if not isinstance(value_dict, dict):
         return value_dict
@@ -100,13 +102,13 @@ def firestore_to_json(value_dict):
             return {key: value}
     return None
 
-def rename_df(df : pd.DataFrame) -> pd.DataFrame:
+
+def rename_df(df: pd.DataFrame) -> pd.DataFrame:
     columns = df.columns.tolist()
     if "price_out" in columns:
-        df = df.rename(columns={'price_out': 'Price'})
+        df = df.rename(columns={"price_out": "Price"})
     if "format" in columns:
-        df = df.rename(columns={'format': 'Volume'})
+        df = df.rename(columns={"format": "Volume"})
     for c in columns:
         df = df.rename(columns={c: c.capitalize()})
     return df
-
