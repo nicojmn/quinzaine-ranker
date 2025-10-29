@@ -1,21 +1,51 @@
-Rank,Name,Price,Volume,Type,Degree,Available,Ratio
-1,Queue de charrue rouge,2.7,33,Fruitée,8.7,True,106.33333333333331
-2,Gauloise fruits rouges,2.6,33,Fruitée,8.2,True,104.07692307692307
-3,Frambush,2.8,33,Fruitée,8.5,True,100.17857142857143
-4,Pêche Mel Bush Fût,2,25,Fruitée,8,True,100.0
-5,Chouffe cherry Fût,2,25,Fruitée,8,True,100.0
-6,Delirium red Fût,2,25,Fruitée,8,True,100.0
-7,Val dieu fruitee,3.2,33,Fruitée,9,True,92.8125
-8,Barbar Rouge,2.9,33,Fruitée,8,True,91.0344827586207
-9,Kasteel red Fût,2.2,25,Fruitée,8,True,90.9090909090909
-10,Tête de mort red ,3,33,Fruitée,8.2,True,90.19999999999999
-11,Lindemans tarot noir,2.4,25,Fruitée,8,True,83.33333333333334
-12,Bon secours myrtille,2.8,33,Fruitée,7,True,82.5
-13,Lindemans tarot d'or Fût,2.5,25,Fruitée,8,True,80.0
-14,Kasteel rubus Fût,2.2,25,Fruitée,7,True,79.54545454545453
-15,Gembloux fruitée dans les bois,2.7,33,Fruitée,6.5,True,79.44444444444444
-16,Waterloo Cherry,2.5,33,Fruitée,6,True,79.2
-17,Kasteel tropicale ,3,33,Fruitée,7,True,77.0
-18,Fagnes blood orange,3,33,Fruitée,7,True,77.0
-19,Kasteel rubus,3,33,Fruitée,7,True,77.0
-20,Lindemans tarot d'or,2.6,25,Fruitée,8,True,76.92307692307692
+Rank,Name,Price,Volume,Degree,Type,Ratio
+1,Queue de charrue rouge,2.7,33,8.7,Fruitée,106.33333333333331
+2,Gauloise fruits rouges,2.6,33,8.2,Fruitée,104.07692307692307
+3,Frambush,2.8,33,8.5,Fruitée,100.17857142857143
+4,Delirium red Fût,2,25,8,Fruitée,100.0
+5,Chouffe cherry Fût,2,25,8,Fruitée,100.0
+6,Pêche Mel Bush Fût,2,25,8,Fruitée,100.0
+7,Val dieu fruitee,3.2,33,9,Fruitée,92.8125
+8,Barbar Rouge,2.9,33,8,Fruitée,91.0344827586207
+9,Kasteel red Fût,2.2,25,8,Fruitée,90.9090909090909
+10,Tête de mort red ,3,33,8.2,Fruitée,90.19999999999999
+11,Lindemans tarot noir,2.4,25,8,Fruitée,83.33333333333334
+12,Bon secours myrtille,2.8,33,7,Fruitée,82.5
+13,Lindemans tarot d'or Fût,2.5,25,8,Fruitée,80.0
+14,Kasteel rubus Fût,2.2,25,7,Fruitée,79.54545454545453
+15,Gembloux fruitée dans les bois,2.7,33,6.5,Fruitée,79.44444444444444
+16,Waterloo Cherry,2.5,33,6,Fruitée,79.2
+17,Fagnes blood orange,3,33,7,Fruitée,77.0
+18,Kasteel tropicale ,3,33,7,Fruitée,77.0
+19,Kasteel rubus,3,33,7,Fruitée,77.0
+20,Lindemans tarot d'or,2.6,25,8,Fruitée,76.92307692307692
+21,Bertinchamps pamplemousse Fût,1.8,25,5,Fruitée,69.44444444444444
+22,Ardenne Rouge ,3.4,33,7,Fruitée,67.94117647058823
+23,Embuscade,3,33,5.8,Fruitée,63.800000000000004
+24,Blanche de Bruxelles rosée,2.5,33,4.5,Fruitée,59.4
+25,Floris mangue ,2.7,33,4.6,Fruitée,56.222222222222214
+26,Wittekerke rosée,2,25,4.3,Fruitée,53.75
+27,Bacchus kriek ,4.4,37.5,5.8,Fruitée,49.43181818181818
+28,Floris honey,3,33,4.3,Fruitée,47.300000000000004
+29,Mongozo banane,3.2,33,4.5,Fruitée,46.40625
+30,Lupulus fructus Fût,2.2,25,4,Fruitée,45.45454545454545
+31,Timmermans framboise,2.2,25,4,Fruitée,45.45454545454545
+32,Timmermans pêche ,2.2,25,4,Fruitée,45.45454545454545
+33,Liefmans fruitesse kriek,2.1,25,3.8,Fruitée,45.238095238095234
+34,Mongozo coconut,3.3,33,4.5,Fruitée,45.0
+35,Newton,2.6,33,3.5,Fruitée,44.42307692307692
+36,Lindemans apple,2,25,3.5,Fruitée,43.75
+37,Mongozo mango,3.4,33,4.5,Fruitée,43.6764705882353
+38,Blanche de Namur pomme,1.8,25,3.1,Fruitée,43.05555555555556
+39,Lindemans cassis,2.2,25,3.5,Fruitée,39.772727272727266
+40,Floris passion,3,33,3.6,Fruitée,39.6
+41,Floris apple,3,33,3,Fruitée,33.0
+42,Lindemans pêcheresse,2.2,25,2.5,Fruitée,28.409090909090907
+43,Lindemans framboise,2.3,25,2.5,Fruitée,27.17391304347826
+44,Ritchie grapefruit pineapple ,2.3,33,0,Fruitée,0.0
+45,Ritchie citron framboise ,2.3,33,0,Fruitée,0.0
+46,Lupulus bleuette 0.0%,2.3,33,0,Fruitée,0.0
+47,Ritchie cola ,2.4,33,0,Fruitée,0.0
+48,Liefmans 0 %,2.4,33,0,Fruitée,0.0
+49,Bertinchamps passion 0%,2.6,33,0,Fruitée,0.0
+50,Kasteel Rouge 0.0%,2.8,33,0,Fruitée,0.0

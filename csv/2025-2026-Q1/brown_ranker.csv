@@ -1,21 +1,40 @@
-Rank,Name,Price,Volume,Type,Degree,Available,Ratio
-1,Gulden Draak,2.8,33,Brune,10.7,True,126.10714285714285
-2,Kasteel donker,2.9,33,Brune,11,True,125.17241379310346
-3,Peak grand cru ,2.8,33,Brune,10.5,True,123.75000000000001
-4,Black albert,3.5,33,Brune,13,True,122.57142857142857
-5,Straffe Hendrik quadrupel,3.1,33,Brune,11,True,117.09677419354838
-6,Moinette brune,2.4,33,Brune,8.5,True,116.875
-7,Malheur 12,3.4,33,Brune,12,True,116.47058823529412
-8,Saint Bernardus Prior 8,2.3,33,Brune,8,True,114.78260869565219
-9,Gauloise brune,2.4,33,Brune,8.1,True,111.37500000000001
-10,Mc Chouffe,2.4,33,Brune,8,True,110.0
-11,Saint Bernardus Abr 12,3,33,Brune,10,True,110.0
-12,Delirium nocturnum,2.6,33,Brune,8.5,True,107.88461538461539
-13,Carolus classic,2.6,33,Brune,8.5,True,107.88461538461539
-14,Chatte noire (la),2.8,33,Brune,9,True,106.07142857142858
-15,Floreffe prima melior,2.5,33,Brune,8,True,105.6
-16,Val Dieu grand cru,3.3,33,Brune,10.5,True,105.0
-17,Charles Quint rouge rubis,2.7,33,Brune,8.5,True,103.88888888888889
-18,Barbar Bok,2.7,33,Brune,8.5,True,103.88888888888889
-19,Nostradamus,3.2,33,Brune,9.9,True,102.09374999999999
-20,Val Dieu brune,2.6,33,Brune,8,True,101.53846153846153
+Rank,Name,Price,Volume,Degree,Type,Ratio
+1,Gulden Draak,2.8,33,10.7,Brune,126.10714285714285
+2,Kasteel donker,2.9,33,11,Brune,125.17241379310346
+3,Peak grand cru ,2.8,33,10.5,Brune,123.75000000000001
+4,Black albert,3.5,33,13,Brune,122.57142857142857
+5,Straffe Hendrik quadrupel,3.1,33,11,Brune,117.09677419354838
+6,Moinette brune,2.4,33,8.5,Brune,116.875
+7,Malheur 12,3.4,33,12,Brune,116.47058823529412
+8,Saint Bernardus Prior 8,2.3,33,8,Brune,114.78260869565219
+9,Gauloise brune,2.4,33,8.1,Brune,111.37500000000001
+10,Mc Chouffe,2.4,33,8,Brune,110.0
+11,Saint Bernardus Abr 12,3,33,10,Brune,110.0
+12,Delirium nocturnum,2.6,33,8.5,Brune,107.88461538461539
+13,Carolus classic,2.6,33,8.5,Brune,107.88461538461539
+14,Chatte noire (la),2.8,33,9,Brune,106.07142857142858
+15,Floreffe prima melior,2.5,33,8,Brune,105.6
+16,Val Dieu grand cru,3.3,33,10.5,Brune,105.0
+17,Barbar Bok,2.7,33,8.5,Brune,103.88888888888889
+18,Charles Quint rouge rubis,2.7,33,8.5,Brune,103.88888888888889
+19,Nostradamus,3.2,33,9.9,Brune,102.09374999999999
+20,Val Dieu brune,2.6,33,8,Brune,101.53846153846153
+21,Troubadour obscura,2.7,33,8.2,Brune,100.2222222222222
+22,Bertinchamps brune,3.5,50,7,Brune,100.0
+23,Silly Scotch,2.7,33,8,Brune,97.77777777777777
+24,Corne du bois des pendus black,2.7,33,8,Brune,97.77777777777777
+25,Waterloo dark,2.8,33,8,Brune,94.28571428571429
+26,Fruit défendu,2.8,33,8,Brune,94.28571428571429
+27,Maredsous 8,2.8,33,8,Brune,94.28571428571429
+28,Barbe noire,3.2,33,9,Brune,92.8125
+29,Valduc Thor,3.4,33,9.5,Brune,92.20588235294117
+30,Tongerlo brune nox,2.4,33,6.7,Brune,92.125
+31,Papegaie,3.1,33,8,Brune,85.16129032258064
+32,Li crochon brune,2.6,25,8.7,Brune,83.65384615384615
+33,Big mama,3.3,33,8,Brune,80.0
+34,Queue de charrue brune,2.3,33,5.4,Brune,77.47826086956523
+35,Bourgogne des flandres Fût,1.8,25,5,Brune,69.44444444444444
+36,Noire du midi,3.3,33,6.9,Brune,69.00000000000001
+37,Duchesse de bourgogne,2.3,25,6.2,Brune,67.3913043478261
+38,Bourgogne des flandres,2.5,33,5,Brune,66.0
+39,Bacchus,3.6,37.5,4.5,Brune,46.875

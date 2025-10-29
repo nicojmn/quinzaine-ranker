@@ -1,21 +1,29 @@
-Rank,Name,Price,Volume,Type,Degree,Available,Ratio
-1,Piraat,2.5,33,Ambrée,10.5,True,138.6
-2,Bush 12 Fût,2.2,25,Ambrée,12,True,136.36363636363635
-3,Corne du bois des pendus quadruple ,3,33,Ambrée,12,True,132.0
-4,Gulden Draak 9000,2.9,33,Ambrée,10.5,True,119.48275862068967
-5,Maredsous 10,3.1,33,Ambrée,10,True,106.45161290322581
-6,Bon secours heritage,2.5,33,Ambrée,8,True,105.6
-7,Troubadour magma,2.9,33,Ambrée,9,True,102.41379310344828
-8,Carolus ambrio,2.6,33,Ambrée,8,True,101.53846153846153
-9,Quintine ambrée,2.9,33,Ambrée,8.5,True,96.72413793103449
-10,Satan red,2.8,33,Ambrée,8,True,94.28571428571429
-11,Divine (la),3,33,Ambrée,8.5,True,93.5
-12,Kwak,3.1,33,Ambrée,8.4,True,89.41935483870967
-13,St Hubertus Ambrée,2.8,33,Ambrée,7.2,True,84.85714285714286
-14,Fumette (la),2.6,33,Ambrée,6.5,True,82.5
-15,Caracole,3,33,Ambrée,7.5,True,82.5
-16,St Hubertus Ambrée Fût,2.2,25,Ambrée,7.2,True,81.81818181818181
-17,Gauloise ambrée,2.3,33,Ambrée,5.6,True,80.34782608695652
-18,Delirium argentum,2.9,33,Ambrée,7,True,79.65517241379311
-19,Philomène hoptimale,3,33,Ambrée,7.2,True,79.2
-20,Queue de charrue ambrée,2.4,33,Ambrée,5.6,True,77.0
+Rank,Name,Price,Volume,Degree,Type,Ratio
+1,Piraat,2.5,33,10.5,Ambrée,138.6
+2,Bush 12 Fût,2.2,25,12,Ambrée,136.36363636363635
+3,Corne du bois des pendus quadruple ,3,33,12,Ambrée,132.0
+4,Gulden Draak 9000,2.9,33,10.5,Ambrée,119.48275862068967
+5,Maredsous 10,3.1,33,10,Ambrée,106.45161290322581
+6,Bon secours heritage,2.5,33,8,Ambrée,105.6
+7,Troubadour magma,2.9,33,9,Ambrée,102.41379310344828
+8,Carolus ambrio,2.6,33,8,Ambrée,101.53846153846153
+9,Quintine ambrée,2.9,33,8.5,Ambrée,96.72413793103449
+10,Satan red,2.8,33,8,Ambrée,94.28571428571429
+11,Divine (la),3,33,8.5,Ambrée,93.5
+12,Kwak,3.1,33,8.4,Ambrée,89.41935483870967
+13,St Hubertus Ambrée,2.8,33,7.2,Ambrée,84.85714285714286
+14,Fumette (la),2.6,33,6.5,Ambrée,82.5
+15,Caracole,3,33,7.5,Ambrée,82.5
+16,St Hubertus Ambrée Fût,2.2,25,7.2,Ambrée,81.81818181818181
+17,Gauloise ambrée,2.3,33,5.6,Ambrée,80.34782608695652
+18,Delirium argentum,2.9,33,7,Ambrée,79.65517241379311
+19,Philomène hoptimale,3,33,7.2,Ambrée,79.2
+20,Queue de charrue ambrée,2.4,33,5.6,Ambrée,77.0
+21,Durbuy,2.5,33,5.5,Ambrée,72.6
+22,100 PAP,2.8,33,6,Ambrée,70.71428571428572
+23,Saint Monon au miel,3.1,33,6.5,Ambrée,69.19354838709677
+24,Jungle Joy,3.2,33,6.6,Ambrée,68.06249999999999
+25,Bruxellensis,3.2,33,6.5,Ambrée,67.03125
+26,Lindemans gueuze,1.7,25,4.5,Ambrée,66.17647058823529
+27,Lindemans faro,1.8,25,4.2,Ambrée,58.33333333333333
+28,Petite vertue (la),3,33,4.7,Ambrée,51.699999999999996

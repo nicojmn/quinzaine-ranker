@@ -1,21 +1,141 @@
-Rank,Name,Price,Volume,Type,Degree,Available,Ratio
-1,Kerel Kaishaku Fût,2.5,25,Blonde,15,True,150.0
-2,Kerel Kaishaku,3.5,33,Blonde,15,True,141.42857142857142
-3,Kasteel triple,2.6,33,Blonde,11,True,139.6153846153846
-4,Bush 10,2.5,33,Blonde,10.5,True,138.6
-5,Queue de charrue triple,2.3,33,Blonde,9,True,129.13043478260872
-6,Corne du bois des pendus 10 triple,2.8,33,Blonde,10,True,117.85714285714286
-7,Duvel,2.4,33,Blonde,8.5,True,116.875
-8,Triple plaisir (la),2.3,33,Blonde,8,True,114.78260869565219
-9,Carolus triple d'or,2.6,33,Blonde,9,True,114.23076923076923
-10,Jupiler Fût,1.2,25,Blonde,5.4,True,112.5
-11,Filou,2.5,33,Blonde,8.5,True,112.2
-12,Bertinchamps triple Fût,1.8,25,Blonde,8,True,111.11111111111111
-13,Cuvée des trolls,2.1,33,Blonde,7,True,110.0
-14,Malheur 10,3,33,Blonde,10,True,110.0
-15,Goliath triple,2.7,33,Blonde,9,True,109.99999999999999
-16,To touille ,2.7,33,Blonde,9,True,109.99999999999999
-17,lupulus organicus,2.6,33,Blonde,8.5,True,107.88461538461539
-18,Moinette blonde,2.6,33,Blonde,8.5,True,107.88461538461539
-19,Saison Dupont,2,33,Blonde,6.5,True,107.25
-20,Lupulus blonde Fût,2,25,Blonde,8.5,True,106.25
+Rank,Name,Price,Volume,Degree,Type,Ratio
+1,Kerel Kaishaku Fût,2.5,25,15,Blonde,150.0
+2,Kerel Kaishaku,3.5,33,15,Blonde,141.42857142857142
+3,Kasteel triple,2.6,33,11,Blonde,139.6153846153846
+4,Bush 10,2.5,33,10.5,Blonde,138.6
+5,Queue de charrue triple,2.3,33,9,Blonde,129.13043478260872
+6,Corne du bois des pendus 10 triple,2.8,33,10,Blonde,117.85714285714286
+7,Duvel,2.4,33,8.5,Blonde,116.875
+8,Triple plaisir (la),2.3,33,8,Blonde,114.78260869565219
+9,Carolus triple d'or,2.6,33,9,Blonde,114.23076923076923
+10,Jupiler Fût,1.2,25,5.4,Blonde,112.5
+11,Filou,2.5,33,8.5,Blonde,112.2
+12,Bertinchamps triple Fût,1.8,25,8,Blonde,111.11111111111111
+13,Cuvée des trolls,2.1,33,7,Blonde,110.0
+14,Malheur 10,3,33,10,Blonde,110.0
+15,Goliath triple,2.7,33,9,Blonde,109.99999999999999
+16,To touille ,2.7,33,9,Blonde,109.99999999999999
+17,Moinette blonde,2.6,33,8.5,Blonde,107.88461538461539
+18,lupulus organicus,2.6,33,8.5,Blonde,107.88461538461539
+19,Saison Dupont,2,33,6.5,Blonde,107.25
+20,Lupulus blonde Fût,2,25,8.5,Blonde,106.25
+21,Tongerlo prior,2.8,33,9,Blonde,106.07142857142858
+22,Saint Idesbald triple,2.8,33,9,Blonde,106.07142857142858
+23,Val Dieu triple,2.8,33,9,Blonde,106.07142857142858
+24,Bon secours Noël,2.8,33,9,Blonde,106.07142857142858
+25,Chouffe houblon triple,2.8,33,9,Blonde,106.07142857142858
+26,Tripick blonde,2.5,33,8,Blonde,105.6
+27,Chouffe,2.5,33,8,Blonde,105.6
+28,Beer Lambert,2.5,33,8,Blonde,105.6
+29,Omer,2.5,33,8,Blonde,105.6
+30,Dupont les bons voeux,3.4,37.5,9.5,Blonde,104.77941176470588
+31,Charles Quint blonde dorée,2.7,33,8.5,Blonde,103.88888888888889
+32,Empire (l’),3.2,33,10,Blonde,103.125
+33,Paix Dieu,3.2,33,10,Blonde,103.125
+34,Bertinchamps triple ,3.9,50,8,Blonde,102.56410256410257
+35,Straffe Hendrik triple,2.9,33,9,Blonde,102.41379310344828
+36,Impératrice (l’),2.9,33,9,Blonde,102.41379310344828
+37,Esprit triple,2.6,33,8,Blonde,101.53846153846153
+38,Bon secours tradition,2.6,33,8,Blonde,101.53846153846153
+39,Charles Quint ommegang,2.6,33,8,Blonde,101.53846153846153
+40,Barbar,2.6,33,8,Blonde,101.53846153846153
+41,Hopus,2.7,33,8.3,Blonde,101.44444444444446
+42,Tête de mort Fût,2,25,8.1,Blonde,101.25
+43,Duvel triple hop citra,3.1,33,9.5,Blonde,101.12903225806451
+44,Triple moine,2.4,33,7.3,Blonde,100.375
+45,Paranoia Fût,2,25,8,Blonde,100.0
+46,Delirium Tremens Fût,2,25,8,Blonde,100.0
+47,Rulles Grande 10 ,3.3,33,10,Blonde,100.0
+48,Gauloise blonde,2.1,33,6.3,Blonde,99.0
+49,Guillotine (la),3,33,9,Blonde,99.0
+50,Duvel triple hop cashmere,3.2,33,9.5,Blonde,97.96875
+51,Belle-fleur,3.2,33,9.5,Blonde,97.96875
+52,Station 16 saison,2.7,33,8,Blonde,97.77777777777777
+53,Saint Idesbald blonde,2.2,33,6.5,Blonde,97.49999999999999
+54,Saint feuillien triple,2.9,33,8.5,Blonde,96.72413793103449
+55,Peak triple ,2.9,33,8.5,Blonde,96.72413793103449
+56,Carolus whisky infused,2.9,33,8.5,Blonde,96.72413793103449
+57,Mobius triple bio,2.9,33,8.5,Blonde,96.72413793103449
+58,Big nose,3.1,33,9,Blonde,95.80645161290322
+59,Saint feuillien blonde,2.6,33,7.5,Blonde,95.1923076923077
+60,Barbe d'or,2.6,33,7.5,Blonde,95.1923076923077
+61,Floreffe blonde,2.2,33,6.3,Blonde,94.5
+62,Leopold 7 triple de hesbaye,2.8,33,8,Blonde,94.28571428571429
+63,Jambe de bois,2.8,33,8,Blonde,94.28571428571429
+64,Waterloo triple,2.8,33,8,Blonde,94.28571428571429
+65,Quintine blonde,2.8,33,8,Blonde,94.28571428571429
+66,xx-Bitter,2.1,33,6,Blonde,94.28571428571428
+67,Bersalis triple,3.4,33,9.5,Blonde,92.20588235294117
+68,Goliath blonde,2.2,33,6,Blonde,89.99999999999999
+69,Harmony,2.2,33,6,Blonde,89.99999999999999
+70,Fagnes blonde,2.8,33,7.5,Blonde,88.39285714285715
+71,Petrus triple d'or,2.8,33,7.5,Blonde,88.39285714285715
+72,Floreffe triple,2.8,33,7.5,Blonde,88.39285714285715
+73,Rochehaut blonde triple ,3,33,8,Blonde,88.0
+74,Binchoise des ours,3.2,33,8.5,Blonde,87.65625
+75,Cuvée des trolls Fût,2,25,7,Blonde,87.5
+76,Philomène céleste,3.4,33,9,Blonde,87.3529411764706
+77,Gouyasse,2.3,33,6,Blonde,86.08695652173914
+78,Vraie bière (la),2.3,33,6,Blonde,86.08695652173914
+79,Vedette IPA,2.3,33,6,Blonde,86.08695652173914
+80,Babylone,2.7,33,7,Blonde,85.55555555555554
+81,Tournay blonde,2.6,33,6.7,Blonde,85.03846153846153
+82,Li crochon blonde,2,25,6.8,Blonde,85.0
+83,St Hubertus Triple,2.8,33,7.2,Blonde,84.85714285714286
+84,Rulles triple fût,2.5,25,8.4,Blonde,84.0
+85,Duvel 666 Fût,2,25,6.66,Blonde,83.25
+86,Amer Amer,2.4,33,6,Blonde,82.5
+87,Tongerlo blonde lux,2.4,33,6,Blonde,82.5
+88,Maredsous 6,2.4,33,6,Blonde,82.5
+89,Quatre saison (IV saison),2.6,33,6.5,Blonde,82.5
+90,Rasta trolls,2.8,33,7,Blonde,82.5
+91,Saxo,3.1,33,7.7,Blonde,81.96774193548387
+92,Delta IPA Fût,2,25,6.5,Blonde,81.25
+93,Corne du bois des pendus 6 blonde,2.4,33,5.9,Blonde,81.12500000000001
+94,Triple Galipette,3.6,33,8.8,Blonde,80.66666666666667
+95,Houppe,3.1,33,7.5,Blonde,79.83870967741936
+96,Triple Bertha,2.9,33,7,Blonde,79.65517241379311
+97,Brugse zot blonde,2.5,33,6,Blonde,79.2
+98,Lupulus hopéra,2.5,33,6,Blonde,79.2
+99,Zinnebir,2.5,33,6,Blonde,79.2
+100,Saison 1858,2.5,33,6,Blonde,79.2
+101,Binchoise blonde,2.6,33,6.2,Blonde,78.6923076923077
+102,Bertinchamps blonde,4,50,6.2,Blonde,77.5
+103,Kerel Winter,3,33,7,Blonde,77.0
+104,Ename blonde,2.8,33,6.5,Blonde,76.60714285714286
+105,Six Wheat (VI),2.6,33,6,Blonde,76.15384615384615
+106,St Hubertus triple hop citra Fût,2,25,6,Blonde,75.0
+107,Quintine bio,2.6,33,5.9,Blonde,74.88461538461539
+108,Peak IPA ,2.9,33,6.5,Blonde,73.96551724137932
+109,Delta IPA,2.9,33,6.5,Blonde,73.96551724137932
+110,Duvel 666,2.7,33,6,Blonde,73.33333333333333
+111,Val Dieu blonde,2.5,33,5.5,Blonde,72.6
+112,urine ,3.2,33,7,Blonde,72.1875
+113,Bertinchamps légère,2.3,33,5,Blonde,71.73913043478261
+114,Abbay bonne esperance,2.9,33,6.3,Blonde,71.6896551724138
+115,franc belge,2.4,33,5.2,Blonde,71.5
+116,Curieuse neus,3.5,33,7.5,Blonde,70.71428571428571
+117,Bertinchamps ipa Fût ,2,25,5.6,Blonde,70.0
+118,Ciney blonde,2.5,25,7,Blonde,70.0
+119,Rulles blonde fût,2.5,25,7,Blonde,70.0
+120,Super fresca,2.9,33,6,Blonde,68.27586206896552
+121,Rochehaut IPA,3.4,33,7,Blonde,67.94117647058823
+122,Epervier,3.4,33,7,Blonde,67.94117647058823
+123,Brassin des Princes,2.7,33,5.5,Blonde,67.22222222222221
+124,Grisette bio gluten free,2.1,25,5.5,Blonde,65.47619047619047
+125,Rasta trolls,2.7,25,7,Blonde,64.81481481481481
+126,Taras Boulba,2.3,33,4.5,Blonde,64.56521739130436
+127,Curtius,4.1,37.5,7,Blonde,64.02439024390245
+128,Kerel Grapefruit,2.1,33,4,Blonde,62.857142857142854
+129,Kasteel extra,2.4,33,4.5,Blonde,61.875
+130,Chatte (la),3.2,33,6,Blonde,61.875
+131,Polarius,2.7,33,5,Blonde,61.11111111111111
+132,Philomène florale,3,33,5.5,Blonde,60.5
+133,Houppe Jambe en l'air,2.8,33,4.8,Blonde,56.57142857142858
+134,Rulles 23 ,2.6,33,3.6,Blonde,45.692307692307686
+135,Splash,2.7,33,2.9,Blonde,35.44444444444444
+136,Amaliris,2.6,33,2,Blonde,25.384615384615383
+137,Lupulus placebo 0.0%,2.1,33,0.4,Blonde,6.285714285714286
+138,Trottinette,2.7,33,0.4,Blonde,4.888888888888889
+139,Pico Bello,2.7,33,0.3,Blonde,3.6666666666666665
+140,Bière des amis 0%,3.7,33,0,Blonde,0.0
